@@ -1,0 +1,68 @@
+# Archivos de entorno
+.env
+.env.*
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos de base de datos
+*.db
+*.sqlite3
+*.sqlite
+
+# Archivos temporales
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Directorios de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Directorios de virtualenv
+venv/
+env/
+ENV/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Archivos de Streamlit
+.streamlit/
+
+# Archivos de datos
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite3
+
+# Archivos de caché
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/ 

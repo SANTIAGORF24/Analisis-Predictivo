@@ -1,0 +1,1 @@
+# Este archivo permite que el directorio pages sea reconocido como un paquete Python 
